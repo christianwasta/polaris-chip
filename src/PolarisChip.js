@@ -31,6 +31,7 @@ export class PolarisChip extends LitElement {
         border: 2px solid #ccc;
         color: #444;
         font-size: 16px;
+        text-decoration: none;
       }
     `;
   }
